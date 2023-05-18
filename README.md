@@ -1,1 +1,1 @@
-# trade-algo
+# This code was used in the final year trading algorithm and strategies class with this code coming out in the top 4% of the class in terms on consistent profit over 10 rounds of 15 minute trading on a simulated market. This code also inspired python based solutions for the trading competition with the Investment Society (IS) at UTSC, coming first after 10 rounds of competition. 
