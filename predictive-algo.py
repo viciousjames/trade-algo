@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Nov 25 13:54:27 2022
-
-@author: hohei3
 """
 
 import signal
