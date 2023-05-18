@@ -1,9 +1,3 @@
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 25 13:54:27 2022
-"""
-
 import signal
 import requests
 import time 
